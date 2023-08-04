@@ -1,8 +1,6 @@
 <div style="display">
-  <img src="/img/download20230804194412.png" align="center" style="padding: 0px; margin: 0; width: 100px; height: 100px;">
+  <img src="/img/download20230804194412.png" align="right" style="padding: 0px; margin: 0; width: 100px; height: 100px;">
 </div>
-
-##
 
 - 🔭 I’m currently working on Freelancer developer
 - 🌱 I’m currently learning Java back-end and Node.js
