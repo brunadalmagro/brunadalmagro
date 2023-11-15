@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on Freelancer developer
 - 🌱 I’m currently learning Java back-end and Node.js
-- 🤔 I’m looking for help with [Finance app python/django](https://github.com/brunadalmagro/Finance_PyStackWeek.git) and [Javascript project](https://github.com/brunadalmagro/app-de-videos-curtos.git)
 - 😹 Fun fact: My cats Yennifer and Geralt have a parrot personality! Yen loves to climb on shoulder, Geralt 'talks' a lot
 
 ##
