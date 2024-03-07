@@ -3,7 +3,7 @@
 </div>
 
 - 🔭 I’m currently working on Freelancer developer
-- 🌱 I’m currently learning Java back-end and Node.js
+- 🌱 I’m currently learning Java back-end and Database process
 - 😹 Fun fact: My cats Yennifer and Geralt have a parrot personality! Yen loves to climb on shoulder, Geralt 'talks' a lot
 
 ##
