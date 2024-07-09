@@ -2,8 +2,8 @@
   <img src="/img/download20230804194412.png" align="right" style="padding: 0px; margin: 0; width: 100px; height: 100px;">
 </div>
 
-- 🔭 I’m currently working on Freelancer developer
-- 🌱 I’m currently learning Java back-end and Database process
+- 🔭 
+- 🌱 Learning Java back-end and Database process
 - 😹 Fun fact: My cats Yennifer and Geralt have a parrot personality! Yen loves to climb on shoulder, Geralt 'talks' a lot
 
 ##
