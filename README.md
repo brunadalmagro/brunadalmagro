@@ -20,7 +20,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-p
     <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgres/postgres-original.svg">
+  <img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgres/postgresql-original.svg">
     <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
   
