@@ -3,7 +3,7 @@
 </div>
 
 - 🔭 
-- 🌱 Learning Java back-end and Database process
+- 🌱 Learning Java back-end, microservices and Database process
 - 😹 Fun fact: My cats Yennifer and Geralt have a parrot personality! Yen loves to climb on shoulder, Geralt 'talks' a lot
 
 ##
