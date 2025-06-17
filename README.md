@@ -1,13 +1,3 @@
-<div style="display">
-  <img src="/img/download20230804194412.png" align="right" style="padding: 0px; margin: 0; width: 100px; height: 100px;">
-</div>
-
-- 🔭 
-- 🌱 Learning Java back-end, microservices and Database process
-- 😹 Fun fact: My cats Yennifer and Geralt have a parrot personality! Yen loves to climb on shoulder, Geralt 'talks' a lot
-
-##
-
 <div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" 
